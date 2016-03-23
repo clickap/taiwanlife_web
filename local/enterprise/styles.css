@@ -1,0 +1,178 @@
+.enterprise .enterprisebox {
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #E1E1E1 !important;
+    padding: 10px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.enterprisebox {
+    margin-bottom: 15px;
+    border: 1px dotted #ddd;
+    .border-radius(4px);
+    padding: 5px;
+}
+.enterprisebox:hover{
+  color: #333333;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+}
+
+.enterpriselogo{
+    text-align: left;
+}
+.enterpriscompany .companylogo,
+.enterprisecourse .courselogo{
+    text-align: center;
+}
+
+.enterpriselogo img {
+    width: 370px;
+    height: 94px;
+}
+
+.enterpriscompany .companylogo img,
+.companylogo img {
+    max-height: 150px !important;
+    width: 267px;
+    height: 150px;
+}
+.enterprisecourse .courselogo img {
+    max-height: 160px !important;
+    width: 192px;
+    height: 146px;
+}
+
+.enterprise .enterprisebox.even,
+.enterprise .enterprisebox.odd {
+    background: #fff;
+    margin-bottom: 5px;
+}
+.enterprise_info {
+  background: #f7f7f7;
+  border-bottom: 1px solid #bfbfbf;
+  border-right: 1px solid #bfbfbf;
+  border-left: 1px solid #bfbfbf;
+  height: 70px;
+  line-height: 24px;
+  font-weight: bold;
+  padding: 5px;
+  color: #2b2b2b;
+}
+.enterprise .summary{
+  float:right;
+  line-height: 15px;
+  width: 50%;
+}
+.enterprise .action{
+  text-align: right;
+  width: 100%;
+}
+.page-enterprise-list {
+    background: url([[pix:theme|bg/dot]]) left top repeat-x;
+    background-size: 4px 20px;
+    padding-top: 25px;
+}
+
+.frontpage-ent-logo{
+  /*background: rgba(243, 243, 243, 0.55);*/
+  /*background: rgb(243, 243, 243);*/
+  background:#f4f4f4;
+  padding: 3px 10px;
+  /*border: 1px solid #e7e7e7;*/
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border-bottom: 3px solid #eee;
+}
+
+.enterpriscompany .title{
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 1.5em; /*24px;*/
+  color:#000000;
+  /*height: 41px;*/
+}
+
+.enterpriscompany{
+    /*width: 266px;*/
+    background:#fff;
+    /*padding:3px 10px;*/
+    border:1px solid #e7e7e7;
+    margin-bottom:10px;
+    border-radius:5px;
+    border-bottom:3px solid #eee;
+    box-shadow: 5px 5px 5px #888888;
+}
+.enterprisecourse{
+    /*width: 230px;*/
+    background:#fff;
+    /*padding:3px 10px;*/
+    border:1px solid #e7e7e7;
+    margin-bottom:10px;
+    border-radius:5px;
+    border-bottom:3px solid #eee;
+    box-shadow: 5px 5px 5px #888888;
+}
+.ellipsis{
+    height: 89px;
+    padding-left: 5px;
+    padding-right: 5px;
+    white-space: nowrap;
+    overflow : hidden; 
+}
+
+.ellipsis .multiline {
+    font-size: 1em;/*16px;*/
+    font-family: fantasy;
+    line-height: 20px;
+    white-space: normal;
+    color: #929292;
+    height: 89px;   
+}
+
+
+.enterprisecourse .coursename{
+    font-size: 1.125em;/*18px;*/
+    font-weight: bold;
+    color: #707070;
+    text-align: center;
+    height: 25px;
+    overflow : hidden;
+}
+.enterprisecourse .coursedate{
+    font-size: 0.75em;/*12px;*/
+    font-weight: bold;
+    color: #707070;
+    text-align: center;
+    overflow : hidden;
+    height: 25px;
+}
+.separator{
+    width:100%;
+    padding-bottom: 20px;
+    /*margin-bottom: 60px;*/
+    margin-top: 20px;
+    /*line-height: 50px;*/
+}
+.separator-right{
+    float :right;
+    width:30%;
+    color: #777;
+    background: url([[pix:theme|bg/dot]]) left center repeat-x;
+}
+.separator-left{
+    float :left;
+    width:30%;
+    color: #777;
+    background: url([[pix:theme|bg/dot]]) right center repeat-x;
+}
+.separator-text{
+    color:#373737;
+    width:40%;
+    text-align: center;
+    float:right;
+    font-size:1.5em; /*24px;*/
+    font-weight: bold;
+}
