@@ -103,6 +103,19 @@
 .da-slide .da-img4 {
 	background: url([[setting:slide4image]]) no-repeat 0 0;
 }
+/*E4-64 1050325*/
+.da-slide .da-img5 {
+    background: url([[setting:slide5image]]) no-repeat 0 0;
+}
+.da-slide .da-img6 {
+    background: url([[setting:slide6image]]) no-repeat 0 0;
+}
+.da-slide .da-img7 {
+    background: url([[setting:slide7image]]) no-repeat 0 0;
+}
+.da-slide .da-img8 {
+    background: url([[setting:slide8image]]) no-repeat 0 0;
+}
 
 .da-slide .da-link{
 	top: 340px;/*mary top: 200px;*/ /*depends on p height*/
