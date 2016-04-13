@@ -1,0 +1,119 @@
+10
+
+dir
+19
+http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/report
+http://192.168.1.169:18080/svn/TaiwanLIFEap1
+
+
+
+2016-03-30T08:20:15.523635Z
+7
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
+
+outline
+dir
+
+questioninstances
+dir
+
+log
+dir
+
+overviewstats
+dir
+
+courseoverview
+dir
+
+backups
+dir
+
+cosweeklyenrolreportview
+dir
+
+stats
+dir
+
+scormreadhours
+dir
+
+loglive
+dir
+
+performance
+dir
+
+progress
+dir
+
+upgrade.txt
+file
+
+
+
+
+2016-04-13T08:27:52.989146Z
+fcc8ebbc56b7f06696fceef82999c29a
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1619
+
+participation
+dir
+
+activityviewstats
+dir
+
+configlog
+dir
+
+security
+dir
+
+completion
+dir
+
+cosenrolreportview
+dir
+
+registerreportview
+dir
+

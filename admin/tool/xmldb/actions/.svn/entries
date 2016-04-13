@@ -1,0 +1,249 @@
+10
+
+dir
+19
+http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/admin/tool/xmldb/actions
+http://192.168.1.169:18080/svn/TaiwanLIFEap1
+
+
+
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
+
+get_db_directories
+dir
+
+delete_xml_file
+dir
+
+load_xml_files
+dir
+
+view_index_xml
+dir
+
+view_reserved_words
+dir
+
+edit_field
+dir
+
+view_table_php
+dir
+
+view_xml
+dir
+
+new_field
+dir
+
+check_indexes
+dir
+
+check_bigints
+dir
+
+edit_table
+dir
+
+edit_key
+dir
+
+XMLDBAction.class.php
+file
+
+
+
+
+2016-04-13T08:28:15.825146Z
+50bc5e568b4e553be4ddbd41345123b7
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5493
+
+revert_changes
+dir
+
+new_table
+dir
+
+new_key
+dir
+
+unload_xml_file
+dir
+
+edit_xml_file
+dir
+
+delete_field
+dir
+
+move_updown_field
+dir
+
+edit_field_save
+dir
+
+check_oracle_semantics
+dir
+
+new_table_from_mysql
+dir
+
+delete_table
+dir
+
+view_structure_sql
+dir
+
+move_updown_table
+dir
+
+delete_key
+dir
+
+view_structure_xml
+dir
+
+move_updown_key
+dir
+
+edit_table_save
+dir
+
+generate_all_documentation
+dir
+
+edit_index
+dir
+
+save_xml_file
+dir
+
+new_index
+dir
+
+check_foreign_keys
+dir
+
+create_xml_file
+dir
+
+edit_xml_file_save
+dir
+
+generate_documentation
+dir
+
+move_updown_index
+dir
+
+delete_index
+dir
+
+edit_index_save
+dir
+
+XMLDBCheckAction.class.php
+file
+
+
+
+
+2016-04-13T08:28:15.825146Z
+fa8d9ae7d973a92c418f7a0cdaee67d1
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5109
+
+view_field_xml
+dir
+
+load_xml_file
+dir
+
+view_table_sql
+dir
+
+view_table_xml
+dir
+
+view_structure_php
+dir
+
+view_key_xml
+dir
+
+check_defaults
+dir
+
+edit_key_save
+dir
+
+template
+dir
+
+main_view
+dir
+

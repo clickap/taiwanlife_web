@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/TaiwanLIFEap1/!svn/ver/17/trunk/enrol
+END
+editenrolment_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/editenrolment_form.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/users.php
+END
+bulkchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/bulkchange.php
+END
+otherusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/otherusers.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/renderer.php
+END
+users_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/users_forms.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/index.php
+END
+bulkchange_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/bulkchange_forms.php
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/externallib.php
+END
+editenrolment.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/editenrolment.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/upgrade.txt
+END
+unenroluser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/unenroluser.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/locallib.php
+END
+ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/ajax.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/README.txt
+END
+instances.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/enrol/instances.php
+END

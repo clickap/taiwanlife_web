@@ -1,0 +1,184 @@
+10
+
+dir
+19
+http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/auth
+http://192.168.1.169:18080/svn/TaiwanLIFEap1
+
+
+
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
+
+nntp
+dir
+
+ldap
+dir
+
+pop3
+dir
+
+shibboleth
+dir
+
+db
+dir
+
+imap
+dir
+
+email
+dir
+
+radius
+dir
+
+fc
+dir
+
+webservice
+dir
+
+ewant1
+dir
+
+none
+dir
+
+tests
+dir
+
+mnet
+dir
+
+nologin
+dir
+
+upgrade.txt
+file
+
+
+
+
+2016-04-13T08:26:38.947146Z
+67875ad31172a9781d901810f1fc1bdd
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+665
+
+cas
+dir
+
+index.html
+file
+
+
+
+
+2016-04-13T08:26:38.947146Z
+d41d8cd98f00b204e9800998ecf8427e
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+README.txt
+file
+
+
+
+
+2016-04-13T08:26:38.947146Z
+dab85f70e75ddb1678cb4e98c5cc80ee
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5583
+
+pam
+dir
+
+manual
+dir
+

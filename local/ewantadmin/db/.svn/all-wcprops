@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/local/ewantadmin/db
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/local/ewantadmin/db/access.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/local/ewantadmin/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap1/!svn/ver/2/trunk/local/ewantadmin/db/upgrade.php
+END

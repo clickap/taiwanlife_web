@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/enterprise/db" VERSION="20150812" COMMENT="XMLDB file for Moodle local/enterprise"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="local_enterprise" COMMENT="Default comment for local_enterprise">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="fullname"/>
+        <FIELD NAME="fullname" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="shortname"/>
+        <FIELD NAME="shortname" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="fullname" NEXT="level"/>
+        <!--FIELD NAME="level" TYPE="int" LENGTH="1" NOTNULL="true" SEQUENCE="false" PREVIOUS="shortname" NEXT="parent"/ -->
+        <FIELD NAME="parent" TYPE="int" LENGTH="1" NOTNULL="true" SEQUENCE="false" PREVIOUS="level" NEXT="logo_link"/>
+        <FIELD NAME="logo_link" TYPE="char" LENGTH="1333" NOTNULL="false" SEQUENCE="false" PREVIOUS="parent" NEXT="isap"/>
+        <FIELD NAME="isap" TYPE="int" LENGTH="1" NOTNULL="true" SEQUENCE="false" PREVIOUS="logo_link" NEXT="banner1_link"/>
+        <FIELD NAME="banner1_link" TYPE="char" LENGTH="1333" NOTNULL="false" SEQUENCE="false" PREVIOUS="isap" NEXT="banner2_link"/>
+        <FIELD NAME="banner2_link" TYPE="char" LENGTH="1333" NOTNULL="false" SEQUENCE="false" PREVIOUS="banner1_link" NEXT="banner3_link"/>
+        <FIELD NAME="banner3_link" TYPE="char" LENGTH="1333" NOTNULL="false" SEQUENCE="false" PREVIOUS="banner2_link" NEXT="banner4_link"/>
+        <FIELD NAME="banner4_link" TYPE="char" LENGTH="1333" NOTNULL="false" SEQUENCE="false" PREVIOUS="banner3_link" NEXT="description"/>
+        <FIELD NAME="description" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="banner4_link" NEXT="sort"/>
+        <FIELD NAME="sort" TYPE="int" LENGTH="3" NOTNULL="false" SEQUENCE="false" PREVIOUS="description" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="sort" />
+        <!--FIELD NAME="status" TYPE="int" LENGTH="1" NOTNULL="true" SEQUENCE="false" PREVIOUS="description"/ -->
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="local_enterprise_courses" COMMENT="Default comment for course set enterprise">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="course_id"/>
+        <FIELD NAME="course_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="enterprise_id"/>
+        <FIELD NAME="enterprise_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="course_id" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="enterprise_id" />
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>
