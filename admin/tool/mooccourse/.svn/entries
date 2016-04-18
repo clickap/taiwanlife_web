@@ -1,14 +1,14 @@
 10
 
 dir
-19
+24
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/admin/tool/mooccourse
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
 
 
-2016-04-13T07:19:03.842788Z
-17
+2016-04-18T07:32:54.688093Z
+24
 mary
 
 
@@ -403,40 +403,6 @@ doris
 
 4553
 
-lib.php
-file
-
-
-
-
-2016-04-13T08:28:15.142146Z
-b04ee0ac96d2bb8e24bcccac376f96d8
-2016-03-23T03:19:57.102536Z
-3
-mary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-19247
-
 enrollib.php
 file
 
@@ -539,6 +505,40 @@ mary
 
 40117
 
+lib.php
+file
+
+
+
+
+2016-04-13T08:28:15.142146Z
+b04ee0ac96d2bb8e24bcccac376f96d8
+2016-03-23T03:19:57.102536Z
+3
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19247
+
 course_manage.php
 file
 
@@ -573,40 +573,6 @@ doris
 
 11637
 
-view.php
-file
-
-
-
-
-2016-04-13T08:28:15.143146Z
-521b7a64a75e95f6cfdded4d560c46b9
-2016-03-23T03:19:57.102536Z
-3
-mary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7938
-
 editsection.php
 file
 
@@ -640,6 +606,40 @@ doris
 
 
 3456
+
+view.php
+file
+
+
+
+
+2016-04-13T08:28:15.143146Z
+521b7a64a75e95f6cfdded4d560c46b9
+2016-03-23T03:19:57.102536Z
+3
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7938
 
 allcourses.php
 file
@@ -743,40 +743,6 @@ doris
 
 2562
 
-version.php
-file
-
-
-
-
-2016-04-13T08:28:15.144146Z
-25d2ceb52ff3a027fd67e053892af4ea
-2016-03-23T03:19:57.102536Z
-3
-mary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1584
-
 edit.php
 file
 
@@ -810,6 +776,40 @@ doris
 
 
 6156
+
+version.php
+file
+
+
+
+
+2016-04-13T08:28:15.144146Z
+25d2ceb52ff3a027fd67e053892af4ea
+2016-03-23T03:19:57.102536Z
+3
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1584
 
 resources_assignquiz.php
 file
@@ -916,40 +916,6 @@ doris
 
 5389
 
-infoedit.php
-file
-
-
-
-
-2016-04-13T08:28:15.145146Z
-ac8a73b982bb6993d00f479c6be5bce7
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4706
-
 editinfo.php
 file
 
@@ -983,6 +949,40 @@ doris
 
 
 5427
+
+infoedit.php
+file
+
+
+
+
+2016-04-13T08:28:15.145146Z
+ac8a73b982bb6993d00f479c6be5bce7
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706
 
 editallsection.php
 file
