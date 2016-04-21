@@ -1,7 +1,7 @@
 10
 
 dir
-24
+26
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/pix/t
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -570,14 +570,14 @@ doris
 
 940
 
-down.svg
+locktime.svg
 file
 
 
 
 
 2016-04-13T08:28:17.607146Z
-b1b8879779939c8c1a689456e60f007c
+70d0055430c9a28515969cf2bc19ae1b
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -602,7 +602,7 @@ doris
 
 
 
-889
+961
 
 download.svg
 file
@@ -638,14 +638,14 @@ doris
 
 2212
 
-locktime.svg
+down.svg
 file
 
 
 
 
 2016-04-13T08:28:17.607146Z
-70d0055430c9a28515969cf2bc19ae1b
+b1b8879779939c8c1a689456e60f007c
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -670,7 +670,7 @@ doris
 
 
 
-961
+889
 
 restore.png
 file
@@ -740,18 +740,17 @@ has-props
 
 274
 
-move.gif
+editstring.svg
 file
 
 
 
 
 2016-04-13T08:28:17.608146Z
-b13f1dd8fe6a5542d3363a80e28a6ad6
+4f48142b562a9ebc0ab2dcdb64414178
 2016-03-22T01:16:45.813094Z
 2
 doris
-has-props
 
 
 
@@ -772,7 +771,8 @@ has-props
 
 
 
-108
+
+836
 
 adddir.png
 file
@@ -808,17 +808,18 @@ has-props
 
 681
 
-editstring.svg
+move.gif
 file
 
 
 
 
 2016-04-13T08:28:17.608146Z
-4f48142b562a9ebc0ab2dcdb64414178
+b13f1dd8fe6a5542d3363a80e28a6ad6
 2016-03-22T01:16:45.813094Z
 2
 doris
+has-props
 
 
 
@@ -839,8 +840,7 @@ doris
 
 
 
-
-836
+108
 
 hiddenuntil.gif
 file
@@ -876,14 +876,14 @@ has-props
 
 205
 
-nonempty.gif
+left.png
 file
 
 
 
 
-2016-04-13T08:28:17.608146Z
-8aaab14130ab055ddf8c84350fde56dd
+2016-04-13T08:28:17.609146Z
+513ffda3e9f0419792340bba631ca481
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -908,7 +908,7 @@ has-props
 
 
 
-94
+214
 
 groups.svg
 file
@@ -944,14 +944,14 @@ doris
 
 1076
 
-left.png
+nonempty.gif
 file
 
 
 
 
-2016-04-13T08:28:17.609146Z
-513ffda3e9f0419792340bba631ca481
+2016-04-13T08:28:17.608146Z
+8aaab14130ab055ddf8c84350fde56dd
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -976,7 +976,7 @@ has-props
 
 
 
-214
+94
 
 preview.svg
 file
@@ -2202,40 +2202,6 @@ doris
 
 875
 
-moveleft.gif
-file
-
-
-
-
-2016-04-13T08:28:17.617146Z
-0656cd6c5cc6e77f1a363fdb23cf1391
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-64
-
 collapsed_rtl.svg
 file
 
@@ -2269,6 +2235,40 @@ doris
 
 
 769
+
+moveleft.gif
+file
+
+
+
+
+2016-04-13T08:28:17.617146Z
+0656cd6c5cc6e77f1a363fdb23cf1391
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64
 
 grades.png
 file
@@ -2304,40 +2304,6 @@ has-props
 
 179
 
-stop.gif
-file
-
-
-
-
-2016-04-13T08:28:17.618146Z
-6c8499420df6aaff247354c74d635989
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-73
-
 manual_item.svg
 file
 
@@ -2372,14 +2338,14 @@ doris
 
 965
 
-down.png
+stop.gif
 file
 
 
 
 
 2016-04-13T08:28:17.618146Z
-d931cf46865927c4258d3cc22f332a0c
+6c8499420df6aaff247354c74d635989
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -2404,75 +2370,7 @@ has-props
 
 
 
-242
-
-download.png
-file
-
-
-
-
-2016-04-13T08:28:17.618146Z
-e1df75539c6bffca1c70b0f59d6adc5f
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-666
-
-locktime.png
-file
-
-
-
-
-2016-04-13T08:28:17.618146Z
-762b9e7f3a7a06362088d71e264fd490
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-264
+73
 
 block_to_dock.svg
 file
@@ -2508,14 +2406,14 @@ doris
 
 1030
 
-email.gif
+locktime.png
 file
 
 
 
 
-2016-04-13T08:28:17.593146Z
-c592a6d9386ca8c1af5a8fc83838a9f7
+2016-04-13T08:28:17.618146Z
+762b9e7f3a7a06362088d71e264fd490
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -2540,7 +2438,75 @@ has-props
 
 
 
-66
+264
+
+download.png
+file
+
+
+
+
+2016-04-13T08:28:17.618146Z
+e1df75539c6bffca1c70b0f59d6adc5f
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+666
+
+down.png
+file
+
+
+
+
+2016-04-13T08:28:17.618146Z
+d931cf46865927c4258d3cc22f332a0c
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+242
 
 unblock.svg
 file
@@ -2575,6 +2541,40 @@ doris
 
 
 858
+
+email.gif
+file
+
+
+
+
+2016-04-13T08:28:17.593146Z
+c592a6d9386ca8c1af5a8fc83838a9f7
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
 
 lock.gif
 file
@@ -2712,40 +2712,6 @@ has-props
 
 280
 
-switch_whole.gif
-file
-
-
-
-
-2016-04-13T08:28:17.620146Z
-a910cec9fe3f7eb6c386248efa5007dd
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-125
-
 collapsed_empty_rtl.svg
 file
 
@@ -2780,14 +2746,14 @@ doris
 
 866
 
-sigma.gif
+switch_whole.gif
 file
 
 
 
 
-2016-04-13T08:28:17.596146Z
-0da2d3fdde2b76e5d15fce8dbfe667cd
+2016-04-13T08:28:17.620146Z
+a910cec9fe3f7eb6c386248efa5007dd
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -2812,7 +2778,7 @@ has-props
 
 
 
-63
+125
 
 preview.png
 file
@@ -2847,6 +2813,40 @@ has-props
 
 
 292
+
+sigma.gif
+file
+
+
+
+
+2016-04-13T08:28:17.596146Z
+0da2d3fdde2b76e5d15fce8dbfe667cd
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63
 
 emailno.png
 file
@@ -2916,40 +2916,6 @@ doris
 
 761
 
-grades.gif
-file
-
-
-
-
-2016-04-13T08:28:17.621146Z
-e8533bfd718ccb1c0cd4651087168430
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-101
-
 clear.png
 file
 
@@ -2983,6 +2949,40 @@ has-props
 
 
 266
+
+grades.gif
+file
+
+
+
+
+2016-04-13T08:28:17.621146Z
+e8533bfd718ccb1c0cd4651087168430
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+101
 
 sort.png
 file
@@ -3018,18 +3018,17 @@ has-props
 
 186
 
-down.gif
+check.svg
 file
 
 
 
 
-2016-04-13T08:28:17.622146Z
-43441b1f42169643f48b65f0126fc0b2
+2016-04-13T08:28:17.597146Z
+07f4826d90767d7fe1307e95e14d8030
 2016-03-22T01:16:45.813094Z
 2
 doris
-has-props
 
 
 
@@ -3050,7 +3049,8 @@ has-props
 
 
 
-64
+
+872
 
 locktime.gif
 file
@@ -3086,48 +3086,14 @@ has-props
 
 227
 
-check.svg
+down.gif
 file
 
 
 
 
-2016-04-13T08:28:17.597146Z
-07f4826d90767d7fe1307e95e14d8030
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-872
-
-ranges.gif
-file
-
-
-
-
-2016-04-13T08:28:17.624146Z
-e79e5b22de1a6a76c120f801cb419a8c
+2016-04-13T08:28:17.622146Z
+43441b1f42169643f48b65f0126fc0b2
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -3152,7 +3118,7 @@ has-props
 
 
 
-83
+64
 
 groups.gif
 file
@@ -3188,6 +3154,40 @@ has-props
 
 97
 
+ranges.gif
+file
+
+
+
+
+2016-04-13T08:28:17.624146Z
+e79e5b22de1a6a76c120f801cb419a8c
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+83
+
 locked.png
 file
 
@@ -3221,40 +3221,6 @@ has-props
 
 
 221
-
-calc.png
-file
-
-
-
-
-2016-04-13T08:28:17.624146Z
-c47cbd59b5de29e225700332f4805de1
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-204
 
 preview.gif
 file
@@ -3290,6 +3256,40 @@ has-props
 
 101
 
+calc.png
+file
+
+
+
+
+2016-04-13T08:28:17.624146Z
+c47cbd59b5de29e225700332f4805de1
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+204
+
 addcontact.png
 file
 
@@ -3323,40 +3323,6 @@ has-props
 
 
 209
-
-block.svg
-file
-
-
-
-
-2016-04-13T08:28:17.599146Z
-50f60249d88e59d5054614b7d995d76d
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-900
 
 emailno.gif
 file
@@ -3392,14 +3358,14 @@ has-props
 
 82
 
-calc_off.svg
+block.svg
 file
 
 
 
 
-2016-04-13T08:28:17.625146Z
-4dc4b742da7e26e93d2fc43a179dc747
+2016-04-13T08:28:17.599146Z
+50f60249d88e59d5054614b7d995d76d
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -3424,7 +3390,7 @@ doris
 
 
 
-929
+900
 
 clear.gif
 file
@@ -3459,6 +3425,40 @@ has-props
 
 
 179
+
+calc_off.svg
+file
+
+
+
+
+2016-04-13T08:28:17.625146Z
+4dc4b742da7e26e93d2fc43a179dc747
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+929
 
 award.svg
 file
@@ -3596,40 +3596,6 @@ has-props
 
 94
 
-up.png
-file
-
-
-
-
-2016-04-13T08:28:17.627146Z
-2e79dd938f7c74390a2d59aadb5dcaac
-2016-03-22T01:16:45.813094Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-213
-
 message.png
 file
 
@@ -3663,6 +3629,40 @@ has-props
 
 
 166
+
+up.png
+file
+
+
+
+
+2016-04-13T08:28:17.627146Z
+2e79dd938f7c74390a2d59aadb5dcaac
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+213
 
 userblue.png
 file
@@ -3800,40 +3800,6 @@ has-props
 
 220
 
-show.svg
-file
-
-
-
-
-2016-04-13T08:28:17.628146Z
-7642e9327526633751d74e9200f5f3ef
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1080
-
 manual_item.png
 file
 
@@ -3867,6 +3833,40 @@ has-props
 
 
 275
+
+show.svg
+file
+
+
+
+
+2016-04-13T08:28:17.628146Z
+7642e9327526633751d74e9200f5f3ef
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1080
 
 block_to_dock.png
 file
@@ -3970,14 +3970,14 @@ has-props
 
 209
 
-up.gif
+message.gif
 file
 
 
 
 
-2016-04-13T08:28:17.629146Z
-d21a57e414fead5634885d14ae6c4b09
+2016-04-13T08:28:17.605146Z
+c592a6d9386ca8c1af5a8fc83838a9f7
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -4002,7 +4002,7 @@ has-props
 
 
 
-64
+66
 
 collapsed_empty_rtl.png
 file
@@ -4038,14 +4038,14 @@ has-props
 
 218
 
-message.gif
+up.gif
 file
 
 
 
 
-2016-04-13T08:28:17.605146Z
-c592a6d9386ca8c1af5a8fc83838a9f7
+2016-04-13T08:28:17.629146Z
+d21a57e414fead5634885d14ae6c4b09
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -4070,41 +4070,7 @@ has-props
 
 
 
-66
-
-unlock.svg
-file
-
-
-
-
-2016-04-13T08:28:17.629146Z
-9fd1c0d32dbc4f5317a2738a369e3090
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-971
+64
 
 reload.png
 file
@@ -4140,18 +4106,17 @@ has-props
 
 203
 
-userblue.gif
+unlock.svg
 file
 
 
 
 
-2016-04-13T08:28:17.630146Z
-20e6925591d400e94b1d4dc358c65e1e
+2016-04-13T08:28:17.629146Z
+9fd1c0d32dbc4f5317a2738a369e3090
 2016-03-22T01:16:45.813094Z
 2
 doris
-has-props
 
 
 
@@ -4172,7 +4137,8 @@ has-props
 
 
 
-575
+
+971
 
 dock_to_block.svg
 file
@@ -4207,6 +4173,40 @@ doris
 
 
 1026
+
+userblue.gif
+file
+
+
+
+
+2016-04-13T08:28:17.630146Z
+20e6925591d400e94b1d4dc358c65e1e
+2016-03-22T01:16:45.813094Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+575
 
 copy.png
 file
