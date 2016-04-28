@@ -1,7 +1,7 @@
 10
 
 dir
-26
+29
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/lib/zend/Zend/Service/DeveloperGarden/Response/ConferenceCall
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -502,40 +502,6 @@ doris
 
 1680
 
-GetConferenceTemplateResponseType.php
-file
-
-
-
-
-2016-04-13T08:26:43.096146Z
-e5519228df602c4449aea1ca3ba89d51
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2896
-
 UpdateConferenceTemplateParticipantResponse.php
 file
 
@@ -570,14 +536,14 @@ doris
 
 1587
 
-ConferenceCallAbstract.php
+GetConferenceTemplateResponseType.php
 file
 
 
 
 
-2016-04-13T08:26:43.094146Z
-99e1707f26e26832b7f52426ca007ce2
+2016-04-13T08:26:43.096146Z
+e5519228df602c4449aea1ca3ba89d51
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -602,7 +568,7 @@ doris
 
 
 
-2287
+2896
 
 GetRunningConferenceResponse.php
 file
@@ -637,6 +603,40 @@ doris
 
 
 1572
+
+ConferenceCallAbstract.php
+file
+
+
+
+
+2016-04-13T08:26:43.094146Z
+99e1707f26e26832b7f52426ca007ce2
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2287
 
 UpdateConferenceResponse.php
 file

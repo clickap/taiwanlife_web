@@ -1,7 +1,7 @@
 10
 
 dir
-26
+29
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/lib/editor/tinymce
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -25,6 +25,12 @@ doris
 
 
 6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
+
+lang
+dir
+
+plugins
+dir
 
 subplugins.php
 file
@@ -59,12 +65,6 @@ doris
 
 
 3337
-
-plugins
-dir
-
-lang
-dir
 
 db
 dir
@@ -177,40 +177,6 @@ doris
 tests
 dir
 
-upgrade.txt
-file
-
-
-
-
-2016-04-13T08:26:41.971146Z
-f43f6072cbe8d9bf8f1ed7a93d6f2c06
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-510
-
 adminlib.php
 file
 
@@ -245,13 +211,41 @@ doris
 
 6621
 
+upgrade.txt
+file
+
+
+
+
+2016-04-13T08:26:41.971146Z
+f43f6072cbe8d9bf8f1ed7a93d6f2c06
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+510
+
 yui
-dir
-
-tiny_mce
-dir
-
-cli
 dir
 
 all_strings.php
@@ -287,6 +281,12 @@ doris
 
 
 3485
+
+cli
+dir
+
+tiny_mce
+dir
 
 readme_moodle.txt
 file
