@@ -1,7 +1,7 @@
 10
 
 dir
-29
+34
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/lib/htmlpurifier/HTMLPurifier
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -25,6 +25,9 @@ doris
 
 
 6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
+
+Lexer
+dir
 
 AttrDef.php
 file
@@ -60,9 +63,6 @@ doris
 
 4981
 
-Lexer
-dir
-
 Token
 dir
 
@@ -74,40 +74,6 @@ dir
 
 Node
 dir
-
-ChildDef.php
-file
-
-
-
-
-2016-04-13T08:26:39.466146Z
-455dfdb0bc9f208568046f819a4a7828
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1559
 
 Strategy.php
 file
@@ -142,6 +108,40 @@ doris
 
 
 762
+
+ChildDef.php
+file
+
+
+
+
+2016-04-13T08:26:39.466146Z
+455dfdb0bc9f208568046f819a4a7828
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1559
 
 DefinitionCacheFactory.php
 file
@@ -211,14 +211,14 @@ doris
 
 15578
 
-ElementDef.php
+TokenFactory.php
 file
 
 
 
 
-2016-04-13T08:26:39.463146Z
-5fed58a0b761cd3c8e8be736248cc769
+2016-04-13T08:26:39.466146Z
+b011bc09cbe8ccbd27be270f272f4d97
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -243,7 +243,7 @@ doris
 
 
 
-7523
+3099
 
 URIDefinition.php
 file
@@ -279,14 +279,14 @@ doris
 
 3430
 
-TokenFactory.php
+ElementDef.php
 file
 
 
 
 
-2016-04-13T08:26:39.466146Z
-b011bc09cbe8ccbd27be270f272f4d97
+2016-04-13T08:26:39.463146Z
+5fed58a0b761cd3c8e8be736248cc769
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -311,7 +311,7 @@ doris
 
 
 
-3099
+7523
 
 Zipper.php
 file
@@ -736,40 +736,6 @@ doris
 ConfigSchema
 dir
 
-TagTransform.php
-file
-
-
-
-
-2016-04-13T08:26:39.468146Z
-5a8ed264cbeb5f187c3380c60971c9d7
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1098
-
 Doctype.php
 file
 
@@ -803,6 +769,40 @@ doris
 
 
 1582
+
+TagTransform.php
+file
+
+
+
+
+2016-04-13T08:26:39.468146Z
+5a8ed264cbeb5f187c3380c60971c9d7
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1098
 
 ContentSets.php
 file
@@ -838,40 +838,6 @@ doris
 
 5640
 
-URIParser.php
-file
-
-
-
-
-2016-04-13T08:26:39.466146Z
-ba6ffbeaf6c053c17746ea17da37a9ae
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2294
-
 DefinitionCache.php
 file
 
@@ -905,6 +871,40 @@ doris
 
 
 3914
+
+URIParser.php
+file
+
+
+
+
+2016-04-13T08:26:39.466146Z
+ba6ffbeaf6c053c17746ea17da37a9ae
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2294
 
 HTMLDefinition.php
 file
@@ -940,43 +940,6 @@ doris
 
 17747
 
-Lexer.php
-file
-
-
-
-
-2016-04-13T08:26:39.467146Z
-269fabca40be191a457331923d66275e
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12388
-
-URIFilter
-dir
-
 Encoder.php
 file
 
@@ -1010,6 +973,43 @@ doris
 
 
 25326
+
+URIFilter
+dir
+
+Lexer.php
+file
+
+
+
+
+2016-04-13T08:26:39.467146Z
+269fabca40be191a457331923d66275e
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12388
 
 Token.php
 file
@@ -1079,40 +1079,6 @@ doris
 
 5897
 
-URIScheme.php
-file
-
-
-
-
-2016-04-13T08:26:39.467146Z
-8193609328daa3fdfe60639c499048da
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3481
-
 VarParserException.php
 file
 
@@ -1146,6 +1112,40 @@ doris
 
 
 157
+
+URIScheme.php
+file
+
+
+
+
+2016-04-13T08:26:39.467146Z
+8193609328daa3fdfe60639c499048da
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3481
 
 Node.php
 file
@@ -1255,40 +1255,6 @@ doris
 AttrDef
 dir
 
-VarParser.php
-file
-
-
-
-
-2016-04-13T08:26:39.467146Z
-bd7c8240177e7a19b356f3ddca46a158
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5958
-
 Config.php
 file
 
@@ -1323,14 +1289,14 @@ doris
 
 31402
 
-AttrTransform.php
+VarParser.php
 file
 
 
 
 
 2016-04-13T08:26:39.467146Z
-30034501c1e8827394f600dad177c3da
+bd7c8240177e7a19b356f3ddca46a158
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -1355,7 +1321,7 @@ doris
 
 
 
-1989
+5958
 
 EntityLookup.php
 file
@@ -1390,6 +1356,40 @@ doris
 
 
 1426
+
+AttrTransform.php
+file
+
+
+
+
+2016-04-13T08:26:39.467146Z
+30034501c1e8827394f600dad177c3da
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1989
 
 UnitConverter.php
 file
@@ -1459,45 +1459,11 @@ doris
 
 6618
 
-ChildDef
-dir
-
 Strategy
 dir
 
-URISchemeRegistry.php
-file
-
-
-
-
-2016-04-13T08:26:39.462146Z
-b6fc83102e8e6dbf564cd44b0e44b626
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2409
+ChildDef
+dir
 
 Arborize.php
 file
@@ -1532,6 +1498,40 @@ doris
 
 
 2544
+
+URISchemeRegistry.php
+file
+
+
+
+
+2016-04-13T08:26:39.462146Z
+b6fc83102e8e6dbf564cd44b0e44b626
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2409
 
 Language.php
 file
