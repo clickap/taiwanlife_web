@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svn/TaiwanLIFEap1/!svn/ver/17/trunk/enrol/nctu
+/svn/TaiwanLIFEap1/!svn/ver/36/trunk/enrol/nctu
 END
 clause.php
 K 25
@@ -42,8 +42,8 @@ END
 lib.php
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap1/!svn/ver/3/trunk/enrol/nctu/lib.php
+V 55
+/svn/TaiwanLIFEap1/!svn/ver/36/trunk/enrol/nctu/lib.php
 END
 edit_form.php
 K 25
