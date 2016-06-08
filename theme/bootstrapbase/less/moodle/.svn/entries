@@ -1,7 +1,7 @@
 10
 
 dir
-37
+41
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/theme/bootstrapbase/less/moodle
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -25,40 +25,6 @@ doris
 
 
 6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
-
-filemanager.less
-file
-
-
-
-
-2016-04-13T08:28:18.403146Z
-16de1be653b97ae3f2911d24cbd3e6c7
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27712
 
 tables.less
 file
@@ -94,14 +60,14 @@ doris
 
 133
 
-bootstrapoverride.less
+filemanager.less
 file
 
 
 
 
-2016-04-13T08:28:18.404146Z
-495197dcedd911336963418d837974ff
+2016-04-13T08:28:18.403146Z
+16de1be653b97ae3f2911d24cbd3e6c7
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -126,7 +92,7 @@ doris
 
 
 
-636
+27712
 
 blocks.less
 file
@@ -161,6 +127,40 @@ doris
 
 
 2936
+
+bootstrapoverride.less
+file
+
+
+
+
+2016-04-13T08:28:18.404146Z
+495197dcedd911336963418d837974ff
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+636
 
 user.less
 file
@@ -264,14 +264,14 @@ doris
 
 4105
 
-debug.less
+backup-restore.less
 file
 
 
 
 
 2016-04-13T08:28:18.400146Z
-73e592dcd08facc2e78e8e566eaffcd6
+90865db47702e80d54f2a7f811982146
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -296,41 +296,7 @@ doris
 
 
 
-1636
-
-editor.less
-file
-
-
-
-
-2016-04-13T08:28:18.400146Z
-21aaf251086ef91f22b8a67b3ed637b8
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-62
+3854
 
 forms.less
 file
@@ -366,14 +332,14 @@ doris
 
 9587
 
-backup-restore.less
+editor.less
 file
 
 
 
 
 2016-04-13T08:28:18.400146Z
-90865db47702e80d54f2a7f811982146
+21aaf251086ef91f22b8a67b3ed637b8
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -398,16 +364,16 @@ doris
 
 
 
-3854
+62
 
-core.less
+debug.less
 file
 
 
 
 
 2016-04-13T08:28:18.400146Z
-7d9894e1ed7db3355d9a17baa34c9f2f
+73e592dcd08facc2e78e8e566eaffcd6
 2016-03-22T01:16:45.813094Z
 2
 doris
@@ -432,7 +398,7 @@ doris
 
 
 
-41460
+1636
 
 admin.less
 file
@@ -467,6 +433,40 @@ doris
 
 
 15270
+
+core.less
+file
+
+
+
+
+2016-04-13T08:28:18.400146Z
+7d9894e1ed7db3355d9a17baa34c9f2f
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41460
 
 responsive.less
 file

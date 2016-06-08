@@ -6,8 +6,8 @@ $CFG = new stdClass();
 
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';
-$CFG->dbhost    = '192.168.1.56';
-$CFG->dbname    = 'tlweb';
+$CFG->dbhost    = '192.168.1.55';
+$CFG->dbname    = 'tlweb-git';
 $CFG->dbuser    = 'root';
 $CFG->dbpass    = 'jack5899';
 $CFG->prefix    = 'mdl_';

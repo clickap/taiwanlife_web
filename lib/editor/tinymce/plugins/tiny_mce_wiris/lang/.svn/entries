@@ -1,7 +1,7 @@
 10
 
 dir
-37
+41
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/lib/editor/tinymce/plugins/tiny_mce_wiris/lang
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -29,10 +29,10 @@ doris
 zh
 dir
 
-ca
+pt
 dir
 
-pt
+ca
 dir
 
 da
@@ -44,10 +44,10 @@ dir
 ru
 dir
 
-sv
+de
 dir
 
-de
+sv
 dir
 
 ja
@@ -59,13 +59,13 @@ dir
 fi
 dir
 
-gl
+ar
 dir
 
 en
 dir
 
-ar
+gl
 dir
 
 cs

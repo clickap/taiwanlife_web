@@ -1,7 +1,7 @@
 10
 
 dir
-37
+41
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/filter/tex
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -25,9 +25,6 @@ doris
 
 
 6b53bfaa-eeec-42fa-a1b6-29b0b7844f91
-
-lang
-dir
 
 mimetex.freebsd
 file
@@ -62,6 +59,9 @@ has-props
 
 
 1366456
+
+lang
+dir
 
 db
 dir
@@ -168,40 +168,6 @@ has-props
 
 2819116
 
-filtersettings.php
-file
-
-
-
-
-2016-04-13T08:28:14.038146Z
-d23aea76000aaa2d29768adefe0ecd59
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3802
-
 lib.php
 file
 
@@ -235,6 +201,40 @@ doris
 
 
 4979
+
+filtersettings.php
+file
+
+
+
+
+2016-04-13T08:28:14.038146Z
+d23aea76000aaa2d29768adefe0ecd59
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3802
 
 texdebug.php
 file
@@ -406,40 +406,6 @@ doris
 
 868
 
-filter.php
-file
-
-
-
-
-2016-04-13T08:28:14.044146Z
-1969eef488a1fbecb159c3745a58dd33
-2016-03-22T01:16:45.813094Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7702
-
 version.php
 file
 
@@ -473,6 +439,40 @@ doris
 
 
 1175
+
+filter.php
+file
+
+
+
+
+2016-04-13T08:28:14.044146Z
+1969eef488a1fbecb159c3745a58dd33
+2016-03-22T01:16:45.813094Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7702
 
 displaytex.php
 file

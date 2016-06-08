@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/svn/TaiwanLIFEap1/!svn/ver/29/trunk/mod/videofile
+/svn/TaiwanLIFEap1/!svn/ver/40/trunk/mod/videofile
 END
 view.php
 K 25
@@ -67,7 +67,7 @@ renderer.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svn/TaiwanLIFEap1/!svn/ver/14/trunk/mod/videofile/renderer.php
+/svn/TaiwanLIFEap1/!svn/ver/40/trunk/mod/videofile/renderer.php
 END
 lib.php
 K 25

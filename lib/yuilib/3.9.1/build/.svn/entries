@@ -1,7 +1,7 @@
 10
 
 dir
-37
+41
 http://192.168.1.169:18080/svn/TaiwanLIFEap1/trunk/lib/yuilib/3.9.1/build
 http://192.168.1.169:18080/svn/TaiwanLIFEap1
 
@@ -32,22 +32,22 @@ dir
 axis-category-base
 dir
 
-cssgrids-base
-dir
-
 stylesheet
 dir
 
-editor-bidi
+cssgrids-base
 dir
 
 node-event-html5
 dir
 
-shim-plugin
+editor-bidi
 dir
 
 yui-core
+dir
+
+shim-plugin
 dir
 
 querystring-stringify-simple
@@ -59,10 +59,10 @@ dir
 scrollview-list
 dir
 
-dump
+event-mouseenter
 dir
 
-event-mouseenter
+dump
 dir
 
 file-html5
@@ -122,43 +122,43 @@ dir
 datasource-cache
 dir
 
-series-spline-stacked
+pjax-plugin
 dir
 
-pjax-plugin
+series-spline-stacked
 dir
 
 scrollview-base
 dir
 
-recordset-base
+uploader-html5
 dir
 
-uploader-html5
+recordset-base
 dir
 
 base-pluginhost
 dir
 
-yui
-dir
-
 uploader-flash
 dir
 
-highlight-accentfold
-dir
-
-base-build
+yui
 dir
 
 datasource-get
 dir
 
-view-node-map
+base-build
+dir
+
+highlight-accentfold
 dir
 
 datatable-mutable
+dir
+
+view-node-map
 dir
 
 imageloader
@@ -170,19 +170,19 @@ dir
 yui-base
 dir
 
-series-line
-dir
-
 graphics-svg-default
 dir
 
-profiler
+series-line
+dir
+
+template-micro
 dir
 
 editor-lists
 dir
 
-template-micro
+profiler
 dir
 
 widget-stack
@@ -191,10 +191,10 @@ dir
 scrollview
 dir
 
-yql-jsonp
+scrollview-base-ie
 dir
 
-scrollview-base-ie
+yql-jsonp
 dir
 
 yql-winjs
@@ -203,13 +203,13 @@ dir
 clickable-rail
 dir
 
-tree
+get-nodejs
 dir
 
 cache-plugin
 dir
 
-get-nodejs
+tree
 dir
 
 pjax
@@ -404,31 +404,31 @@ dir
 resize-constrain
 dir
 
-series-cartesian
+tabview
 dir
 
 dataschema-json
 dir
 
-tabview
-dir
-
-series-combospline
+series-cartesian
 dir
 
 dd-drag
 dir
 
+series-combospline
+dir
+
 datatable-table
 dir
 
-button
+handlebars-base
 dir
 
 uploader
 dir
 
-handlebars-base
+button
 dir
 
 tree-lazy
@@ -443,10 +443,10 @@ dir
 selector-css2
 dir
 
-event-base
+selector-css3
 dir
 
-selector-css3
+event-base
 dir
 
 editor-tab
@@ -455,49 +455,49 @@ dir
 querystring-parse-simple
 dir
 
-arraylist-filter
+scrollview-scrollbars
 dir
 
-scrollview-scrollbars
+arraylist-filter
 dir
 
 event-custom-complex
 dir
 
-anim-color
+arraylist-add
 dir
 
-arraylist-add
+anim-color
 dir
 
 event-valuechange
 dir
 
-io-xdr
+node-screen
 dir
 
 cssfonts
 dir
 
-node-screen
-dir
-
-widget-child
+io-xdr
 dir
 
 selector-native
 dir
 
-datatable-formatters
+widget-child
 dir
 
-yui-log-nodejs
+cssbase-context
 dir
 
 button-group
 dir
 
-cssbase-context
+yui-log-nodejs
+dir
+
+datatable-formatters
 dir
 
 attribute-extras
@@ -506,10 +506,10 @@ dir
 view
 dir
 
-sortable
+series-areaspline
 dir
 
-series-areaspline
+sortable
 dir
 
 series-ohlc
@@ -521,22 +521,22 @@ dir
 test
 dir
 
-router
+anim-scroll
 dir
 
-anim-scroll
+router
 dir
 
 calendar-base
 dir
 
-history-hash
+datasource-jsonschema
 dir
 
 array-extras
 dir
 
-datasource-jsonschema
+history-hash
 dir
 
 node-style
@@ -545,10 +545,10 @@ dir
 series-range
 dir
 
-event-move
+yui-log
 dir
 
-yui-log
+event-move
 dir
 
 slider-value-range
@@ -569,13 +569,13 @@ dir
 oop
 dir
 
-async-queue
+datatype-xml-format
 dir
 
 swf
 dir
 
-datatype-xml-format
+async-queue
 dir
 
 dd-ddm-base
@@ -584,10 +584,10 @@ dir
 querystring-stringify
 dir
 
-yui-throttle
+calendar
 dir
 
-calendar
+yui-throttle
 dir
 
 pjax-content
@@ -611,22 +611,22 @@ dir
 autocomplete-list-keys
 dir
 
-yui-nodejs
-dir
-
 align-plugin
 dir
 
-editor-br
+yui-nodejs
 dir
 
 series-areaspline-stacked
 dir
 
-dd-ddm
+editor-br
 dir
 
 createlink-base
+dir
+
+dd-ddm
 dir
 
 graphics-group
@@ -635,10 +635,10 @@ dir
 app-transitions
 dir
 
-event-mousewheel
+node-menunav
 dir
 
-node-menunav
+event-mousewheel
 dir
 
 event-touch
@@ -659,10 +659,10 @@ dir
 editor-para
 dir
 
-datatable-body
+axis-numeric-base
 dir
 
-axis-numeric-base
+datatable-body
 dir
 
 intl-base
@@ -677,10 +677,10 @@ dir
 cssgrids
 dir
 
-datasource-local
+dom-class
 dir
 
-dom-class
+datasource-local
 dir
 
 template-base
@@ -689,10 +689,10 @@ dir
 widget-skin
 dir
 
-color-base
+recordset-indexer
 dir
 
-recordset-indexer
+color-base
 dir
 
 dom-size
@@ -704,25 +704,25 @@ dir
 graphics-vml
 dir
 
-graphics
+series-area
 dir
 
-series-area
+graphics
 dir
 
 widget-modality
 dir
 
-axis
-dir
-
 querystring-parse
 dir
 
-datatable-core
+axis
 dir
 
 sortable-scroll
+dir
+
+datatable-core
 dir
 
 autocomplete-list
@@ -752,10 +752,10 @@ dir
 io-upload-iframe
 dir
 
-plugin
+datatype-date-parse
 dir
 
-datatype-date-parse
+plugin
 dir
 
 dd-delegate
@@ -764,31 +764,31 @@ dir
 base-core
 dir
 
-datatable-sort
-dir
-
 dd-proxy
 dir
 
-cookie
-dir
-
-series-marker
-dir
-
-autocomplete-base
+datatable-sort
 dir
 
 uploader-deprecated
 dir
 
+autocomplete-base
+dir
+
+series-marker
+dir
+
+cookie
+dir
+
 scrollview-paginator
 dir
 
-history-hash-ie
+cssreset-context
 dir
 
-cssreset-context
+history-hash-ie
 dir
 
 dom-style
